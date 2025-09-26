@@ -16,7 +16,7 @@ import { onMounted, ref } from 'vue'
 import { Minus, Plus } from '@element-plus/icons-vue'
 
 const percentage = ref(10)
-const percentage2 = ref(0)
+const percentage2 = ref(50)
 
 const colors = [
   { color: '#f56c6c', percentage: 20 },
